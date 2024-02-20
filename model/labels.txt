@@ -1,0 +1,27 @@
+0 Apple
+1 Avocado
+2 Banana
+3 Coconut
+4 Mango
+5 Pineapple
+6 Strawberry
+7 Chicken Egg
+8 Duck Egg
+9 Beef
+10 Chicken
+11 Ham
+12 Clams
+13 Cockle
+14 Crab
+15 Fish
+16 Mussels
+17 Octopus
+18 Oysters
+19 Cuttlefish
+20 Salmon
+21 Scallop
+22 Shrimp
+23 Mantis Shrimp
+24 Splendid Squid
+25 Lemon
+26 Lime
